@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1515076633 source:/home/omar/Documentos/Yerika/Burbuja.cpp
+	"Burbuja.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<cstdio>
+
+1515058077 /home/omar/Documentos/Yerika/Burbuja.h
+	"allegro5/allegro.h"
+	"Imagen.h"
+
+1515007811 /home/omar/Documentos/Yerika/Matriz.h
+	"Burbuja.h"
+
+1515070160 source:/home/omar/Documentos/Yerika/Juego.cpp
+	"Juego.h"
+	<cstdio>
+	<fstream>
+
+1515069054 /home/omar/Documentos/Yerika/Juego.h
+	"allegro5/allegro.h"
+	"Burbuja.h"
+
+1515079752 source:/home/omar/Documentos/Yerika/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_color.h"
+	"Matriz.h"
+	"Juego.h"
+	"Disparador.h"
+
+1514996088 source:/home/omar/Documentos/Yerika/Matriz.cpp
+	"Matriz.h"
+	<allegro.h>
+	<cstdio>
+	<iostream>
+
+1515066871 source:/home/omar/Documentos/Yerika/Disparador.cpp
+	"Disparador.h"
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1515065017 /home/omar/Documentos/Yerika/Disparador.h
+	"allegro5/allegro.h"
+	<cstdio>
+	"Burbuja.h"
+
+1515058091 /home/omar/Documentos/Yerika/Imagen.h
+	"allegro5/allegro.h"
+
+1515031738 source:/home/omar/Documentos/Yerika/Imagen.cpp
+	"Imagen.h"
+
